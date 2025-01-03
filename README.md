@@ -15,10 +15,10 @@ react-native 版本的[vConsole](https://github.com/Tencent/vConsole)
 - 注意：该库引入`valtio`和`react-native-device-info`作为`peerDependencies`，宿主项目需要确保安装了这些依赖
   ```json
   "peerDependencies": {
-    "react": "16.9.0",
-    "react-native": "0.61.4",
-    "react-native-device-info": "^10.3.0",
-    "valtio": "^1.9.0"
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-device-info": "^10.14.0",
+    "valtio": "^1.13.2"
   }
   ```
 - 安装依赖
