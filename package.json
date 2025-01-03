@@ -1,5 +1,5 @@
 {
-  "name": "rnconsole",
+  "name": "@gfzy9876/rnconsole",
   "version": "0.0.2",
   "description": "A react-native version vConsole",
   "type": "module",
